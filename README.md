@@ -1,5 +1,15 @@
 ## Hi there 👋
+My name is Mohd Zaid Khan. I am currently a sophomore at Department of Computer Engineering, Jamia Millia Islamia. I'm pursuing majors  in Computer Science and Data Science along with a Honours in Data Science.
 
+I'm working on Project B* and rebuilding its optimized version that also works for Heigher Earth Orbit Satellites.
+I'm currently learning PyTorch and Statistical Learning Techniques.
+
+Fun fact - I love to read fiction, play basketball and esports. I do decenlty well at my studies as well. My intersts other than my course includes Quantum Physics, Organic Chemistry and History.
+
+How to reach me:
+email - mohdzaidk25@gmail.com
+linkedin - https://www.linkedin.com/in/zaid-khan9/
+Department of Computer Engineering, Jamia Millia Isamlia
 <!--
 **ZaidKhan-git/ZaidKhan-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
