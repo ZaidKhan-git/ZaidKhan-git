@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mohd Zaid Khan. I am currently a sophomore at Department of Computer Engineering, Jamia Millia Islamia. I'm pursuing majors  in Computer Science and Data Science along with a Honours in Data Science.
+My name is Mohd Zaid Khan. I am currently a Pre final student at Department of Computer Engineering, Jamia Millia Islamia. I'm pursuing majors  in Computer Science and Data Science along with a Honours in Data Science.
 
 Fun fact - I love to read fiction, play basketball and esports. I do decenlty well at my studies as well. My interests other than my course includes Quantum Physics, Organic Chemistry and History.
 
